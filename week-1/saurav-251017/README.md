@@ -1,6 +1,6 @@
 ## Task 2 Analysis
 
-![plot](image.png)
+![plot](plot.png)
 
 **1. Which agent learns a safe path the fastest?**
 Constant low exploration agent (0.05) learns a safe path the fastest.
